@@ -1,0 +1,19 @@
+{
+  "name": "mi_primera_aplicaion_de_node",
+  "version": "0.0.0",
+  "description": "primera vez que arranco un proyecto de node",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vitepress dev mi_web(o)",
+    "build": "vitepress build mi_web(o)"
+  },
+  "keywords": [
+    "gitgud"
+  ],
+  "author": "Ale",
+  "license": "Mi polla morena con peluca incluida",
+  "dependencies": {
+    "vitepress": "^1.0.0-rc.40"
+  }
+}
